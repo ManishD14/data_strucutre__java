@@ -1,7 +1,7 @@
 # data_strucutre__java
 
 #### 1. Single Linked List
-      #### Insertion Opration
-      #### Deletion Operation
-      #### Min ,Max Node find
-      #### Reverse of List
+       Insertion Opration
+       Deletion Operation
+       Min ,Max Node find
+       Reverse of List
