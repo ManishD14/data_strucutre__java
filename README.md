@@ -5,3 +5,9 @@
        Deletion Operation
        Min ,Max Node find
        Reverse of List
+       
+##### 2. Doubly Linked List
+      Node
+      Insert
+      Delete
+      Demo
