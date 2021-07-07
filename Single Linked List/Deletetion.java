@@ -1,11 +1,13 @@
 package com.data_structure;
 
 public class Deletetion {
+	//creating head Node
 	Node head;
 	public Deletetion()
 	{
 		head=null;
 	}
+	//adding elements in Linked List at start of list
 	public void Start(int data)
 	{
 		Node temp=new Node(data);
