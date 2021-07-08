@@ -11,3 +11,7 @@
       Insert
       Delete
       Demo
+      
+##### 3. Sorting
+     Selection Sort
+     Bubble Sort
