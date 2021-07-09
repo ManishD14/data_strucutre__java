@@ -5,6 +5,7 @@
        Deletion Operation
        Min ,Max Node find
        Reverse of List
+       Middle Node
        
 ##### 2. Doubly Linked List
       Node
